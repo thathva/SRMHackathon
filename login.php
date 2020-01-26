@@ -62,9 +62,7 @@ h1 {
 
 		
 	</form>
-</div>
-</div>
-</div>
+
 </body>
 
 </html>
